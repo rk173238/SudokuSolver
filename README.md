@@ -1,2 +1,0 @@
-# SudokuSolver
-Created with CodeSandbox
